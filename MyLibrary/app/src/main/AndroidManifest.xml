@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mylibrary">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher4"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher4_round"
+        android:supportsRtl="true"
+        android:theme="@style/myTheme">
+        <service
+            android:name=".FirebaseService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name=".EditBookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddBookActivity"
+            android:exported="false"
+            android:theme="@style/addBookTheme" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/splashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

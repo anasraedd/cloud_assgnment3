@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/.gradle/caches/transforms-3/f6f8a5ce6946a8c4991a757788b025bf/transformed/core-1.7.0/res/drawable/notification_bg_low.xml" value="0.236" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable-v24/ic_camera.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable-v24/ic_image.xml" value="0.1645" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_btn.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_btn2.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_btn_add_catrgory.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_btn_before_press.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_btn_when_press.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_btn_when_press2.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_container1.xml" value="0.1875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_container2.xml" value="0.1875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_containerbuttons.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_containercard.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_containercard2.xml" value="0.1215" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_et.xml" value="0.1875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_ic_image.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_image.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/back_logo.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/drawable/ic_star.xml" value="0.221" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_add_book.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_edit_book.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/add.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/add_rate.xml" value="0.1490036231884058" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/cancle_and_back.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/choose_put_image.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/item_book.xml" value="0.536" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/obtions_more_to_book.xml" value="0.4" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/toolbar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/mipmap-anydpi-v26/ic_launcher3.xml" value="0.1875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/mipmap-anydpi-v26/ic_launcher3_round.xml" value="0.221" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/mipmap-anydpi-v26/ic_launcher4.xml" value="0.221" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/mipmap-anydpi-v26/ic_launcher4_round.xml" value="0.1875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyLibrary/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round2.xml" value="0.221" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
